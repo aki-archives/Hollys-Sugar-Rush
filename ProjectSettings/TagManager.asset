@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Obstacle
+  - Platform
+  - House
+  - SpawnPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3977678505
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Trees and etc
+    uniqueID: 3535960219
+    locked: 0
+  - name: plants
+    uniqueID: 1008809599
+    locked: 0
+  - name: Grid
+    uniqueID: 1235330661
+    locked: 0
+  - name: Player
+    uniqueID: 3816661725
+    locked: 0
